@@ -4,7 +4,7 @@ Hi 👋 My name is PRANAV KRISHNA TEJA
 ServiceNow Developer
 --------------------
 
-I've been learning to code for 5 years, after completing my university. I started with HTML,CSS,JavaScript and I have started to work as ServiceNow Developer since then.....
+I've been learning to code for 5 years. After completing my university, I started with HTML,CSS,JavaScript and later started to work as ServiceNow Developer since then.....
 
 *   🌍  I'm based in INDIA
 *   ✉️  You can contact me at [pranav.krishnateja@gmail.com](mailto:pranav.krishnateja@gmail.com)
