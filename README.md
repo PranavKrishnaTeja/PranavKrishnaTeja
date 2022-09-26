@@ -1,12 +1,12 @@
 Hi 👋 My name is PRANAV KRISHNA TEJA
 ====================================
 
-ServiceNow Developer
+Current Computer Science Grad Student at Wayne State University, EX-ServiceNow Developer
 --------------------
 
 I've been learning to code for 5 years. After completing my university, I started with HTML,CSS,JavaScript and later started to work as ServiceNow Developer since then.....
 
-*   🌍  I'm based in INDIA
+*   🌍  I'm based in Detroit
 *   ✉️  You can contact me at [pranav.krishnateja@gmail.com](mailto:pranav.krishnateja@gmail.com)
 *   🤝  I'm open to collaborating on Machine Learning, Integrations
 *   ⚡  I use lightmode.....Don't tell anyone
