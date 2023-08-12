@@ -1,7 +1,7 @@
 Hi 👋 My name is PRANAV KRISHNA TEJA
 ====================================
 
-Current Computer Science Grad Student at Wayne State University, EX-ServiceNow Developer
+Current Computer Science Grad Student at Wayne State University, Schwab and Wipro Alumni
 --------------------
 
 I've been learning to code for 5 years. After completing my university, I started with HTML,CSS,JavaScript and later started to work as ServiceNow Developer since then.....
