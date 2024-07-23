@@ -1,14 +1,14 @@
 Hi 👋 My name is PRANAV KRISHNA TEJA
 ====================================
 
-Current Computer Science Grad Student at Wayne State University, Schwab and Wipro Alumni
+Currently working as a Backend Developer in Schwab, Wayne State University and Wipro Alumni
 --------------------
 
 I've been learning to code for 5 years. After completing my university, I started with HTML,CSS,JavaScript and later started to work as ServiceNow Developer since then.....
 
-*   🌍  I'm based in Detroit
+*   🌍  I'm based in Austin
 *   ✉️  You can contact me at [pranav.krishnateja@gmail.com](mailto:pranav.krishnateja@gmail.com)
-*   🤝  I'm open to collaborating on Machine Learning, Integrations
+*   🤝  I'm open to collaborating on Machine Learning, Integrations, Solving LeetCode, Hackathons
 *   ⚡  I use lightmode.....Don't tell anyone
 
 ### Skills
@@ -36,6 +36,3 @@ I've been learning to code for 5 years. After completing my university, I starte
 <a href="http://www.github.com/PranavKrishnaTeja"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavKrishnaTeja&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/PranavKrishnaTeja" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavKrishnaTeja&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
-<a href="https://www.buymeacoffee.com/krishnapra7"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
